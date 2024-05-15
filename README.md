@@ -18,8 +18,8 @@ The Amazon Prime Dashboard Visualization project aims to provide insights into v
 
 1. Clone the repository to your local machine:
 
-```
-git clone https://github.com/sakshi0023/PowerBI.git
+```[
+git clone https://github.com/Balu9853/AmazonPrime_DashBoard
 ```
 
 2. Open the Power BI project file (.pbix) using Power BI Desktop.
